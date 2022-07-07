@@ -1,2 +1,0 @@
-# lidarvisor
-Begin app
